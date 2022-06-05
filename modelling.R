@@ -15,3 +15,5 @@ plot(static_prediction) +
   xlab("Storage time (h)") + 
   ylab("Microbial count (log CFU/ml)") +
   theme_gray()
+
+##Hi there
